@@ -1,1 +1,3 @@
-This is the repository for the UI section of the shopping list.
+This is the repository for the UI section of the shopping list. 
+
+-by Miles
