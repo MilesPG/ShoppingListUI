@@ -20,3 +20,9 @@
     background: white;
     border-radius: 50%;
 }
+.item-lists{
+    display: flex;
+    justify-content: center;
+    list-style-type: square;
+    
+}
